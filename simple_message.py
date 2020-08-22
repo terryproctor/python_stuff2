@@ -1,0 +1,2 @@
+message="whatsuuuupppp!!!!!!"
+print(message)
